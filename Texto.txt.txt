@@ -1,0 +1,23 @@
+Siguiendo la metodología de solución de problemas del curso (con los pasos de Requerimientos, diagrama de clase, diagramas EPS para cada método, código en java y prueba de escritorio) resolver el siguiente problema: 
+
+ Se requiere para manejar los sueldos de n empleados de una empresa, para lo cual es necesario un programa que permita: 
+
+a) Registrar la información de los salarios 
+
+b) Mostrar todos los salarios registrados
+
+c) Saber cuántos empleados ganan más del salario mínimo 
+
+d) Saber cuántos empleados ganan menos que el salario mínimo 
+
+e) Calcular los salarios de cada empleado menos el 10% de su salario actual.  
+
+ 
+
+Nota: Haga la prueba de escritorio solo para los métodos c y e 
+
+
+
+La tarea se entrega en grupos de 2 personas, una sola entrega por grupo. debe entregar pdf  con todos los pasos y el programa completo en java.
+
+La tarea se sustenta dentro de la clase.
